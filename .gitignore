@@ -1,0 +1,12 @@
+# General
+target/
+.classpath
+.project
+.settings/
+.metadata/
+*.log
+.h2/
+gwt-unitCache/
+src/main/webapp/gwt-example
+src/main/webapp/WEB-INF/deploy/
+
